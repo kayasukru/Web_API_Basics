@@ -1,0 +1,6 @@
+@Hello_World_CLI_HostAddress = http://localhost:5030
+
+GET {{Hello_World_CLI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
